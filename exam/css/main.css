@@ -1,0 +1,48 @@
+#header
+{
+	width:100%;
+	height:100px;
+	margin-bottom:10px;
+	background-color:seagreen;
+}
+
+#container
+{
+	width:1200px;;
+	height:100%;
+	background-color:#fff;
+	margin:auto;
+	font:inherit;
+}
+#q
+{
+	width:1200px;
+	height:500px;
+}
+#question_container
+{
+	width:1000px;
+	height:460px;
+	padding-top:30px;
+	float:left;
+	overflow:scroll;
+}
+#question_status
+{
+	width:200px;
+	background-color:gainsboro;
+	float:right;
+	height:460px;
+	overflow:scroll;
+}
+.q_status
+{
+	width: 60px;
+	height: 40px;
+	background-color: seagreen;
+	font-size: 20px;
+	font-family: revert;
+	color: khaki;
+	margin: 1px;
+	margin-top: 2px;
+}
